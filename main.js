@@ -7,8 +7,15 @@
 // }
 
 // While loop example
-let i = 0;
-while (i < 5) {
-    console.log(i);
-    i++;
-}
+// let i = 0;
+// while (i < 5) {
+//     console.log(i);
+//     i++;
+// }
+
+// Do-while loop example
+let j = 0;
+do {
+    console.log(j);
+    j++;
+} while (j < 5);
